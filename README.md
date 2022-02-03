@@ -40,4 +40,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is DataOps?How can kubernetes help here!](https://dev.to/cnu1812/what-is-dataopshow-can-kubernetes-help-here-4hem)
+- [Report on kubernetes](https://dev.to/cnu1812/report-on-kubernetes-7lg)
+- [INTRO TO KUBERNETES!](https://dev.to/cnu1812/intro-to-kubernetes-55fc)
+- [IS KUBERNETES CERTIFICATION WORTH IT..?](https://dev.to/cnu1812/is-kubernetes-certification-worth-it-gp8)
+- [What is Docker!](https://dev.to/cnu1812/what-is-docker-4jlm)
 <!-- BLOG-POST-LIST:END -->
