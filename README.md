@@ -40,6 +40,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+<<<<<<< HEAD
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://www.buymeacoffee.com/cnu1812R"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" ></a>
@@ -48,3 +49,11 @@
 
  
 
+=======
+- [What is DataOps?How can kubernetes help here!](https://dev.to/cnu1812/what-is-dataopshow-can-kubernetes-help-here-4hem)
+- [Report on kubernetes](https://dev.to/cnu1812/report-on-kubernetes-7lg)
+- [INTRO TO KUBERNETES!](https://dev.to/cnu1812/intro-to-kubernetes-55fc)
+- [IS KUBERNETES CERTIFICATION WORTH IT..?](https://dev.to/cnu1812/is-kubernetes-certification-worth-it-gp8)
+- [What is Docker!](https://dev.to/cnu1812/what-is-docker-4jlm)
+<!-- BLOG-POST-LIST:END -->
+>>>>>>> dd75f4355dface7a5c08eba576d5ba40f8f60198
