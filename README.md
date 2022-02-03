@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/v-sreenivas-985088203">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
+<a href="https://www.dev.to/cnu1812"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </br>
 
 - 🔭 I’m currently working on Data on kubernetes Project, doing my Bachelors in Computer Science and Engineering currently in my sophomore year.
@@ -30,3 +31,9 @@
 ## Web Development
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" />
+
+## Github stats
+![cnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnu1812&show_icons=true&theme=tokyonight&hide=stars)
+
+## Latest Tweets
+<p><a href="https://www.twitter.com/cnu1812"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=cnu1812&amp;layout=wide" alt="github-readme-twitter"></a></p>
