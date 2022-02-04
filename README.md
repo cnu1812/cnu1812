@@ -14,10 +14,18 @@
 <a href="https://www.dev.to/cnu1812"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </br>
 
+
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/75531528/152545832-d214dd8e-ef35-469e-9f76-877b319af27a.gif" width="200" align="right" >
+
+<!-- ![giphy](https://user-images.githubusercontent.com/75531528/152545832-d214dd8e-ef35-469e-9f76-877b319af27a.gif) -->
+
 - 🔭 I’m currently working on Data on kubernetes Project, doing my Bachelors in Computer Science and Engineering currently in my sophomore year.
 - 🌱 I’m currently learning Cloud Native technology
 - 👯 I’m looking to collaborate on Web development and cloud-native projects
 - 💬 Ask me about Web development, kubernetes, open-source, crypto,
+</p>
 
 # 🚀 Technologies 
 
