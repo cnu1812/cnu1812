@@ -35,6 +35,9 @@
 ## Github stats
 ![cnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnu1812&show_icons=true&theme=tokyonight&hide=stars)
 
+<details close>
+ <summary> 😇 <b> Published articles and latest Tweets</b>: </summary>
+
 ## Latest Tweets
 <p><a href="https://www.twitter.com/cnu1812"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=cnu1812&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
@@ -51,7 +54,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-
+</details>
 <!-- - [What is DataOps?How can kubernetes help here!](https://dev.to/cnu1812/what-is-dataopshow-can-kubernetes-help-here-4hem)
 - [Report on kubernetes](https://dev.to/cnu1812/report-on-kubernetes-7lg)
 - [INTRO TO KUBERNETES!](https://dev.to/cnu1812/intro-to-kubernetes-55fc)
