@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif">
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
 
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Sreenivas](https://www.linkedin.com/in/v-sreenivas-985088203) !!
 
@@ -28,6 +28,7 @@
 - 👯 I’m looking to collaborate on Web development and cloud-native projects
 - 💬 Ask me about Web development, kubernetes, open-source, crypto,
 </p>
+
 
 # 🚀 Technologies 
 
@@ -75,7 +76,7 @@ BLOG-POST-LIST:END -->
 <a href="https://www.buymeacoffee.com/cnu1812R"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" ></a>
 
 
-<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif">
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%" height="2px">
 
 
 
