@@ -71,6 +71,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 </details>
+
 <!-- - [What is DataOps?How can kubernetes help here!](https://dev.to/cnu1812/what-is-dataopshow-can-kubernetes-help-here-4hem)
 - [Report on kubernetes](https://dev.to/cnu1812/report-on-kubernetes-7lg)
 - [INTRO TO KUBERNETES!](https://dev.to/cnu1812/intro-to-kubernetes-55fc)
@@ -80,9 +81,13 @@ BLOG-POST-LIST:END -->
 
 <!-- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris) -->
 
+## 🎧 Spotify listening...
+
 [![Spotify](https://spotify-playing-cnu1812.vercel.app/api/spotify)](https://open.spotify.com/user/cnu)
 
-<a href="https://www.buymeacoffee.com/cnu1812R"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" ></a>
+*If you like the work I am doing. You can*  <a href="https://www.buymeacoffee.com/cnu1812R"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" ></a>
+
+
 
 
 <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%" height="2px">
