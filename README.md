@@ -59,7 +59,7 @@
 ## Github stats
 ![cnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnu1812&show_icons=true&theme=tokyonight&hide=stars)
 
-<details close>
+<details open>
  <summary> 😇 <b> Published articles and latest Tweets</b>: </summary>
 
 ## Latest Tweets
